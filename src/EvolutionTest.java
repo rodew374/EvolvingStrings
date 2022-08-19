@@ -19,7 +19,7 @@ public class EvolutionTest {
 
         long delta, startTime = System.currentTimeMillis();
 
-        Population pop = new Population("ZACHARY DYLAN INMAN", 100);
+        Population pop = new Population("FIRST MIDDLE LAST", 100);
 
         while(pop.mostFit.fitness() < 0) {
 

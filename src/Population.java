@@ -48,10 +48,10 @@ public class Population {
     /**
      * Default Constructor.
      * Calls the main constructor with
-     * String "ZACHARY DYLAN INMAN" and
+     * String "FIRST MIDDLE LAST" and
      * integer 100.
      */
-    public Population() {   this("ZACHARY DYLAN INMAN", 100);    }
+    public Population() {   this("FIRST MIDDLE LAST", 100);    }
 
     /**
      * Constructor.
