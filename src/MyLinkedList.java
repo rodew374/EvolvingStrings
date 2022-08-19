@@ -245,7 +245,7 @@ public class MyLinkedList<Type extends Comparable<Type>> {
     }
 
     /**
-     * Backwards compatible Bubble Sort.
+     * Backwards compatible (Ascending) Bubble Sort.
      * Calls sort(descending) by passing
      * false value as boolean.
      * Runtime: 0(n^2)
